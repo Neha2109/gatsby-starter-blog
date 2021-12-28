@@ -331,3 +331,18 @@ a:focus {
     list-style-position: inside;
   }
 }
+/*
+@keyframes mymove {
+  from {background-color: red;}
+  to {background-color: blue;}
+}p.test1 {
+  writing-mode: horizontal-tb;
+}
+
+p.test2 {
+  writing-mode: vertical-rl;
+}
+
+span.test2 {
+  writing-mode: vertical-rl;
+}*/
